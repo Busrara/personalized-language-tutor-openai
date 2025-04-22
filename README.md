@@ -26,4 +26,4 @@
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/your-Busrara/personalized-language-tutor-openai.git
+   git clone https://github.com/Busrara/personalized-language-tutor-openai.git
