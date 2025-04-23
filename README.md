@@ -22,6 +22,8 @@
 - **Python 3.x**
 - **OpenAI API Key**: You need an OpenAI API key to interact with GPT-4.
 
+Read my Medium writing on this project to fully understand: https://medium.com/@busraracoban/creating-a-grammar-vocabulary-coach-with-python-and-openai-64c03997005d 
+
 ## Installation
 
 1. **Clone this repository**:
